@@ -52,7 +52,8 @@ Você **não precisa saber programar** para usar este projeto.
 Criei um material visual explicando as escolhas de design e estrutura do projeto:
 
 👉 **Abrir documentação visual:**  
-[🔗 Abrir documentação visual](minibiovisual.html)
+[📖 Ver guia visual](https://helenaleen.github.io/instagrambio/minibiovisual.html)
+
 
 
 ---
