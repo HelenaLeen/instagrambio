@@ -52,7 +52,8 @@ Você **não precisa saber programar** para usar este projeto.
 Criei um material visual explicando as escolhas de design e estrutura do projeto:
 
 👉 **Abrir documentação visual:**  
-[`readme-visual.html`](readme-visual.html)
+[🔗 Abrir documentação visual](minibiovisual.html)
+
 
 ---
 
